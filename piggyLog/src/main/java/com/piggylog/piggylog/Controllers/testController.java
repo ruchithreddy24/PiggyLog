@@ -7,6 +7,5 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @RequestMapping(path = "test")
 public class testController {
-
     
 }
